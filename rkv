@@ -1,5 +1,9 @@
 
- Hello this is RKV.
-Ravi Kiran Varma 
-A Devops Engineer, if you found this in my repo, it means this is a test data
+Hello this is RKV.
+Ravi Kiran Varma Kosuri 
+A Devops Engineer. If you found this in my repo, it means this is a test data
 where i created from AWS Linux and push the file from linux to Git hub
+
+Created a Ec2 Server, connected to linux, installed the Git in my server. 
+Next cloned the Git Hub repo to the local server. Then I created a file inside the Repo folder, next added tracker, gave the current data and comitted. Then I pushed the file from local to cetral / remote platform. 
+
