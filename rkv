@@ -7,4 +7,4 @@ where i created from AWS Linux and push the file from linux to Git hub
 Created a Ec2 Server, connected to linux, installed the Git in my server. 
 Next cloned the Git Hub repo to the local server. Then I created a file inside the Repo folder, next added tracker, gave the current data and comitted. Then I pushed the file from local to cetral / remote platform. 
 
-Now connected the Jenkins Pipeline using Git Web Hook and created a pipeline
+Now connected the Jenkins Pipeline using Git Web Hook and created a pipeline and build automatically
